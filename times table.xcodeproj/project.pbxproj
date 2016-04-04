@@ -487,6 +487,7 @@
 				087862EF1C400C7C00A4C435 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		087862F01C400C7C00A4C435 /* Build configuration list for PBXNativeTarget "times tableTests" */ = {
 			isa = XCConfigurationList;
@@ -495,6 +496,7 @@
 				087862F21C400C7C00A4C435 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		087862F31C400C7C00A4C435 /* Build configuration list for PBXNativeTarget "times tableUITests" */ = {
 			isa = XCConfigurationList;
@@ -503,6 +505,7 @@
 				087862F51C400C7C00A4C435 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
